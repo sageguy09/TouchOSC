@@ -12,9 +12,9 @@ This file is meant to serve as a template for you to use alongside Resolume! To 
 
 ## Guide
 ### Color Picker
-The first page has the layout provided by (leadonvellum) for you to test color
-options for your controls. A color picker has been added to pages 2-4 for easy updating
-on those FX Controls. A button has been added to open the color picker.
+The first page has the layout provided by **leadonvellum** for you to test color
+options for your controls. Much appreciated for the work on the color picker!
+A color picker has been added to pages 2-4 for easy updating on those FX Controls. A button has been added to open the color picker.
 **The color picker adds color combinations for the selected color via xy/faders are: Complementary, (2) Analogous, and (2)Triadic**
 
 ### Comp/Layer/Clip Pages:
